@@ -42,7 +42,7 @@ HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,stripe.network,OpenAI
 HOST-SUFFIX,vimeocdn.com,OpenAI
 HOST-SUFFIX,vimeo.com,OpenAI
-HOST-SUFFIX,browser-intake-datadog,OpenAIhq.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com,OpenAI
 HOST-SUFFIX,oaistatic.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
 HOST-SUFFIX,livekit.cloud,OpenAI
